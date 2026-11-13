@@ -1,0 +1,8 @@
+title: jade653
+description: 개발자 포트폴리오 & 블로그
+url: "https://jade653.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+header_pages:
+  - about.md
